@@ -9,6 +9,7 @@ dependencies = [
     "asyncpg>=0.32.0",
     "fastapi[standard]>=0.156.8",
     "passlib[argon2]>=1.7.4",
+    "pydantic-settings>=2.16.1",
     "pyjwt>=2.15.1",
     "python-multipart>=0.0.32",
     "python-settings>=0.2.3",
